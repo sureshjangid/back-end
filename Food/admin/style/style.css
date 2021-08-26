@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* navbar */
+.navBg{
+    background-color: #FF6B91 !important;
+}
+/* Main Part */
+.footCard{
+    background-color: bisque;
+    width: 18%;
+    padding: 10px 20px;
+    margin-left: 10px;
+    text-align: center;
+}
+/* Manage-Category Page */
+.rowBg{
+    background-color:#d1d8e0;
+}
+.text-color{
+    color: #9b59b6;
+}
